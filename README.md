@@ -4,15 +4,21 @@ I analyzed Data for Maven Roasters, a fictitious coffee shop operating out of 3 
 
 ## Table of Contents.
 - [Business Task.](#business-task)
-- 
-
+- [Source of Data.](source-of-data)
+- [Data Manipulation Documentation.](data-manipulation-documentation)
+- [Summary of Analysis.](summary-of-analysis)
+- [Analysis Based on Coffee Shop Location.](analysis-based-on-coffee-Shop-location)
+- [Relationships of data.](relationships-of-data)
+- [Visualizations](visualizations)
+- [Recommendations.](recommendations)
+  
 ## Business Task.  
 To better understand purchase behaviour and streamline operators from data colected from Jan 2023-Jun 2023
 
 ## Source of Data.
 Coffee Shop Sales data was made available by Maven Analytics. The dataset is saved as a Microsoft Excel Workbook.
 
-## Data Manipulation
+## Data Manipulation Documentation.
 I added 6 columns to the dataset to help solve the business task i.e:
 - Revenue - This helped me to analyze the financial perfomance of the coffee shop. Multiplied transaction_qty by Unit_Price  =D2*H2
 - Month- This helped me to conduct analysis by Month. I used the Month Function =MONTH(B2) -B2 is transaction_date cloumn
@@ -21,7 +27,7 @@ I added 6 columns to the dataset to help solve the business task i.e:
 - Weekday_Name- This made it easier to interprate the days of the week by name inteasd of numbers on the visualizations, =TEXT(B2,"ddd")
 - Hour - this helped me analyze the transactions by time and have a better understanding of sales by the hour, =HOUR(C2)
 
-  ## Summary of Analysis
+  ## Summary of Analysis.
 
   ### Overall analysis of the three locations show that
   - Total Revenue increased steadily each month but there was a slight dip on February.
@@ -30,7 +36,7 @@ I added 6 columns to the dataset to help solve the business task i.e:
   - Brewed Chai Tea is the most setting product for Maven Rosters 
   - Coffee is the most selling product by Category
  
-  ## Analysis based on location of the coffee shop
+  ## Analysis Based on Coffee Shop Location.
   ### Astoria Location
   - Total revenue increased steadily but a slight dip in Feb.
   - Coffee shop is busiest on Monday and Thursday and slow on Satuday.
@@ -49,11 +55,21 @@ I added 6 columns to the dataset to help solve the business task i.e:
 - Peak hours from 7am-10am and 7pm-8pm business is very slow.
 - Barista Espresso, Gourmet brewed coffee and Brewed Chai tea are the best selling products.
 
-## Relationships of data
+## Relationships of data.
 Data shows that there is a positive corrrelation when it comes to time of day and number of transactions. There is a spike of transactions in the morning from 7am-10am and a drop from 11 am which remains consistent until another sudden drop at 8pm.
 
 
-  
+## Visualizations.
+Below is an Excel interractive Dashboard for the three coffee shop locations. 
 
 [Coffee_Shop_Sales_Dashboard.xlsx](https://github.com/emychela/Coffee_Shop_Sales_Analysis_Excel/files/15200836/Coffee_Shop_Sales_Dashboard.xlsx)
 
+
+## Recommendations.
+1. ** Astoria Location** should extend opening hours to ** 8pm ** as number of transactions are still high at 7pm.
+** Hell's kitchen ** and ** Lower Manhattan ** locations should close at ** 7pm ** as transactions are very low from 8pm.
+3. Stores peak hours are from 7am-10pm, coffee shops should allocate more staff during this
+hours.
+4. Reduce number of staff on Saturday as this is not a busy day.
+5. Processing times should be monitored during the peak hours to  endhace customers satisfaction.
+6. Coffee, Tea, Bakery and Drinking chocolate products should be well stocked at the inventory as these are very fast moving products. 

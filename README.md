@@ -24,7 +24,7 @@ I added 6 columns to the dataset to help solve the business task i.e:
 - Month- This helped me to conduct analysis by Month. I used the Month Function =MONTH(B2) -B2 is transaction_date column.
 - Month_Name- This column helped in visualization as it is easier to interpret visualizations with month name instead of number =TEXT(B2, "mmm")
 - Weekday - helped to analyze transaction by day of week, =WEEKDAY(B2,2) 
-- Weekday_Name- This made it easier to interprate the days of the week by name instead of numbers on the visualizations, =TEXT(B2,"ddd")
+- Weekday_Name- This made it easier to interpret the days of the week by name instead of numbers on the visualizations, =TEXT(B2,"ddd")
 - Hour - this helped me analyze the transactions by time and have a better understanding of sales by the hour, =HOUR(C2)
 
 ## Summary of Analysis.
@@ -72,4 +72,4 @@ Below is an Excel interactive Dashboard for the three coffee shop locations.
 hours.
 4. Reduce the number of staff on Saturday as this is not a busy day.
 5. Processing times should be monitored during the peak hours to enhance customers satisfaction.
-6. Coffee, Tea, Bakery and Drinking chocolate products should be well stocked at the inventory as these are very fast-moving products. 
+6. Coffee, Tea, Bakery and Drinking chocolate products should be well stocked in the inventory as these are very fast-moving products. 

@@ -37,16 +37,23 @@ I added 6 columns to the dataset to help solve the business task i.e:
   - Busy hours is from 7AM -10AM and from 11am-7am there is no huge variation when it comes to the number of transactions. This shows the store has good overall business activity.
   - Brewed Chai Tea and Gourmet brewed codffee are the most sold products
 
-    ### Hell"s Kitchen Location
-    - Steady growth of the coffee shop as Revenue increases each month.
-    - Busiest days are Tuesday and Friday and business is lowest on Saturday.
-    - There is a huge vatiation when it comes to the business activity by the hour. Shop is busiest from 8am-10am and from there there is a sudden drop. Slowest time for the shop 8pm.
-    - Barista Espresso, Brewed Chai Tea and Gourmet brewed coffee and the most selling products.
+  ### Hell"s Kitchen Location
+- Steady growth of the coffee shop as Revenue increases each month.
+- Busiest days are Tuesday and Friday and business is lowest on Saturday.
+ - There is a huge vatiation when it comes to the business activity by the hour. Shop is busiest from 8am-10am and from there there is a sudden drop. Slowest time for the shop 8pm.
+- Barista Espresso, Brewed Chai Tea and Gourmet brewed coffee and the most selling products.
  
-    ### Lower Manhattan Location
-    - 
-    
+### Lower Manhattan Location
+- Revenue increased steadily from February to June.
+- Monday is the busiest day of the week then a sudden drop from Tuesday.
+- Peak hours from 7am-10am and 7pm-8pm business is very slow.
+- Barista Espresso, Gourmet brewed coffee and Brewed Chai tea are the best selling products.
+
+## Relationships of data
+Data shows that there is a positive corrrelation when it comes to time of day and number of transactions. There is a spike of transactions in the morning from 7am-10am and a drop from 11 am which remains consistent until another sudden drop at 8pm.
+
 
   
 
+[Coffee_Shop_Sales_Dashboard.xlsx](https://github.com/emychela/Coffee_Shop_Sales_Analysis_Excel/files/15200836/Coffee_Shop_Sales_Dashboard.xlsx)
 

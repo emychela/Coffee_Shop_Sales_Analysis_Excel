@@ -66,8 +66,8 @@ Below is an Excel interractive Dashboard for the three coffee shop locations.
 
 
 ## Recommendations.
-1. ** Astoria Location** should extend opening hours to ** 8pm ** as number of transactions are still high at 7pm.
-** Hell's kitchen ** and ** Lower Manhattan ** locations should close at ** 7pm ** as transactions are very low from 8pm.
+1. **Astoria Location** should extend opening hours to **8pm** as number of transactions are still high at 7pm.
+**Hell's kitchen** and **Lower Manhattan** locations should close at **7pm** as transactions are very low from 8pm.
 3. Stores peak hours are from 7am-10pm, coffee shops should allocate more staff during this
 hours.
 4. Reduce number of staff on Saturday as this is not a busy day.

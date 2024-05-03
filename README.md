@@ -29,27 +29,27 @@ I added 6 columns to the dataset to help solve the business task i.e:
 
 ## Summary of Analysis.
 
-## Overall analysis of the three locations shows that
+### Overall analysis of the three locations shows that
 - Total Revenue increased steadily each month but there was a slight dip in February.
 - Coffee shops are busiest on weekdays i.e. Mon. - Fri.
 - Busy hours for the coffee shops are from 7am-10am.
 - Brewed Chai Tea is the most setting product for Maven Rosters 
 - Coffee is the most selling product by Category
  
-## Analysis Based on Coffee Shop Location.
-## Astoria Location
+### Analysis Based on Coffee Shop Location.
+### Astoria Location
 - Total revenue increased steadily but there was a slight dip in Feb.
 - Coffee shop is busiest on Monday and Thursday and slow on Saturday.
 - Busy hours is from 7AM -10AM and from 11am-7am there is no huge variation when it comes to the number of transactions. This shows the store has good overall business activity.
 - Brewed Chai Tea and Gourmet brewed coffee are the most sold products
 
-## Hell's Kitchen Location
+### Hell's Kitchen Location
 - Steady growth of the coffee shop as Revenue increases each month.
 - Busiest days are Tuesday and Friday and business is lowest on Saturday.
 - There is a huge variation when it comes to the business activity by the hour. The shop is busiest from 8am-10am and from there is a sudden drop. The slowest time for the shop is 8pm.
 - Barista Espresso, Brewed Chai Tea and Gourmet brewed coffee and the most selling products.
  
-## Lower Manhattan Location
+### Lower Manhattan Location
 - Revenue increased steadily from February to June.
 - Monday is the busiest day of the week then a sudden drop from Tuesday.
 - Peak hours from 7am-10am and 7pm-8pm business is very slow.
